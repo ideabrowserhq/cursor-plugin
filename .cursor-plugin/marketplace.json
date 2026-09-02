@@ -1,0 +1,18 @@
+{
+  "name": "ideabrowser",
+  "owner": {
+    "name": "Ideabrowser",
+    "email": "support@ideabrowser.com"
+  },
+  "metadata": {
+    "description": "Official Ideabrowser plugin for Cursor and Grok Bot — 1,000+ researched startup ideas, trends, market insights, custom research, and build agents.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ideabrowser",
+      "source": "./plugins/ideabrowser",
+      "description": "Connect Cursor to Ideabrowser: browse researched startup ideas, explore trends and markets, run custom research, and build with 40+ pre-made agents. Sign in with your Ideabrowser account — no API key needed."
+    }
+  ]
+}

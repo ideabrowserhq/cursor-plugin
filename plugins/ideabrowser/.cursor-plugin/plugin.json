@@ -1,0 +1,25 @@
+{
+  "name": "ideabrowser",
+  "displayName": "Ideabrowser",
+  "version": "1.0.0",
+  "description": "Browse 1,000+ researched startup ideas, explore trends and market insights, get personalized recommendations, run custom research, and build with 40+ pre-made agents — right from your AI tool. Sign in with your Ideabrowser account; no API key needed.",
+  "author": {
+    "name": "Ideabrowser",
+    "email": "support@ideabrowser.com"
+  },
+  "homepage": "https://www.ideabrowser.com/hub/build/connectors",
+  "repository": "https://github.com/ideabrowserhq/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "ideabrowser",
+    "startup ideas",
+    "idea validation",
+    "market research",
+    "trends",
+    "business",
+    "entrepreneurship",
+    "founder",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
